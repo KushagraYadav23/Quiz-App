@@ -1,0 +1,43 @@
+[
+    {
+      "question": " HTML stand for ?",              
+
+      "choice1": "Hypermark Language",
+      "choice2": "Hypermix language",
+      "choice3": "Hypertext Markup Language",
+      "choice4": "Hypertension Language",
+      "answer": 3
+    },
+    {
+      "question": "Which tag is used to create a check box?",
+      "choice1": "<checkbox>",
+      "choice2": " <Input type="checkbox">",
+      "choice3": "<type="checkbox">",
+      "choice4": "None of the above",
+      "answer": 2
+    },
+    {
+      "question": "Which attribute set the text direction?",
+      "choice1": "dir",
+      "choice2": "lang",
+      "choice3": "direction",
+      "choice4": "sub",
+      "answer": 1
+    }
+    {
+        "question": "From which tag descriptive list starts ?",
+        "choice1": "<LL>",
+        "choice2": "<DL>",
+        "choice3": "<LDL>",
+        "choice4": "<DD>",
+        "answer": 2
+      },
+      {
+        "question": "HTML is subset of which of the following?",
+        "choice1": "GHL",
+        "choice2": "<SHL>",
+        "choice3": "<SGHL>",
+        "choice4": "<SGML>",
+        "answer": 4
+      }
+  ]
